@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>By the King. A proclamation for making of severall pieces of forreigne coyne to be currant in this kingdome, for the furtherance of the trade thereof.</title>
+            <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+         </titleStmt>
+         <extent>Approx. 4KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B19087</idno><idno type="EEBO-CITATION">99886200</idno>
+  <idno type="VID">188390</idno>
+  <idno type="EEBO-PROQUEST">2240890995</idno>
+  
+            <idno type="STC">Wing C2586</idno>
+            <idno type="STC">Interim Tract Supplement Guide 1851.b.3[37]</idno>
+            <idno type="STC">ESTC R225676</idno>
+            <idno type="PROQUEST">ocm99886200</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99886200e"/>
+            <note>(EEBO-TCP ; phase 2, no. B19087)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 188390)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C10:2[40])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>By the King. A proclamation for making of severall pieces of forreigne coyne to be currant in this kingdome, for the furtherance of the trade thereof.</title>
+                  <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+                  <author>Charles I, King of England, 1600-1649.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>by Leonard Lichfield, printer to the Vniversity,</publisher>
+                  <pubPlace>Printed at Oxford :</pubPlace>
+                  <date>1643 [i.e. 1644]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Dated at end: ... Oxford, the fourth day of March, 1643.</note>
+                  <note>The dates are given according to Lady Day dating.</note>
+                  <note>Arms 37; Steele notation: Councell, hereby payments.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Coinage --  Law and legislation --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="royal_proclamation">
+            <pb facs="tcp:188390:1"/>
+            <head>
+               <figure>
+                  <head>C R</head>
+                  <q xml:lang="frm">HONI SOIT QVI MAL Y PENSE</q>
+                  <figDesc>royal blazon surmounted by a crown</figDesc>
+               </figure>
+            </head>
+            <head>BY THE KING.</head>
+            <head type="sub">¶ A Proclamation for making of severall pieces of Forreigne Coyne to be Currant in this Kingdome, for the furtherance of the Trade thereof.</head>
+            <p>
+               <seg rend="decorInit">W</seg>HEREAS, upon deliberate and mature debate and consideration had with Our Privy-Councell, and consideration had of the opinions, as well of the Masters and Wardens of Our Mint, as of severall Merchants and others of good experience and understanding in Trade, It is conceived, that it would conduce much to the advancement and quickning of Trade in these distracted times, and the taking off the Cloth and Manufactures of this Kingdome, if the severall pieces or species of Forreigne Coyne hereafter specified, were made currant within this our Kingdom of England, and dominion of Wales, at the rates and values herein also mentioned; We have th<gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>
+               <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> the advice of Our Privy, Councell publish<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d this Our <gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>clamation, and doe hereby ordaine, appoynt, and Declare, That from and after the date of this Our Proclamation, and untill We shall otherwise ordaine, and that Our pleasure shall be Published and Declared to the Contrary, these Peices or species of Forreign Coyn, that is to say the <hi>Ducatoone</hi> weighing one ounce and twenty graines; The Imperi<g ref="char:EOLhyphen"/>all <hi>Rix Dollers</hi> weighing Eighteen penny weight and twelve graines; The <hi>Crosse Dollers,</hi> weighing Eighteen penny weight; The Spanish peices of <hi>Eight</hi> weighing Seventeen penny weight and twelve graines; The <hi>Quartdecue</hi> of France weighing Six penny weight and fower graines; The <hi>Double Ryder</hi> of the Low Countries, weighing equall with the two and twenty shillings peice of the Coyne of Our deare Father King JAMES of Blessed memory; And the Spanish <hi>Double Pistoll</hi> weighing fower penny weight and eight graines, shall be currant mony within this our Kingdom of England and Dominion Wales, and shall be so accompted; and shall be taken accepted and allowed in all Payments and Receipts, at and for the respective rates and values hereafter specified, that is to say, the <hi>Ducatoone</hi> weighing as aforesaid, at and for the rate or value of Five shillings &amp; sixpence currant mony of England; The Imperiall <hi>Rix Doller</hi> weighing as aforesaid, at and for the rate or value of Fower shillings and eight pence; The <hi>Crosse Doller</hi> weighing as aforesaid, at and for the rate or value of Fower shillings and six pence; The Spanish peices of <hi>Eight,</hi> weighing as aforesaid, at and for the rate or value of Fower shillings and six pence; The <hi>Quartdecue</hi> of France weighing as aforesaid, at and for the rate or value of one shil<g ref="char:EOLhyphen"/>ling and sixpence; The <hi>Double Rider</hi> of the Low Countries weighing as aforesaid, at and for the rate and value of one Pound one Shilling and sixpence; And the Spanish <hi>Double Pistoll</hi> weighing as aforesaid, at and for the rate or value of Fifteen shillings of currant mony of England. And We doe hereby Require and Command all Persons whatsoever with<g ref="char:EOLhyphen"/>in this Our Kingdom of England and Dominion of Wales, to accept and allow of the said Pieces of Forreign Coyne of the severall and respective weights before mentioned, at and for the severall rates and values aforesaid, in all payments and Receipts.</p>
+            <closer>
+               <dateline>Given at Our Court at <hi>Oxford,</hi>
+                  <date>the fourth day of March, 1643.</date>
+               </dateline>
+               <lb/> GOD SAVE THE KING.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>¶ <hi>Printed at</hi> Oxford, <hi>by</hi> Leonard Lichfield, <hi>Printer to the Ʋniversity,</hi> 1643.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
